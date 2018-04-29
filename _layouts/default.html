@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> {{ page.title }} </title>
+		<link href="/styles/style.css" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Reenie+Beanie" 
+		type= "text/css"
+		rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Raleway"
+		type="text/css" 
+		rel="stylesheet">
+	</head>
+	<body>
+		<div class="sidebar">
+			
+			<div id="sbname">
+				<h1>Julian<br>Zett</h1>
+			</div>
+
+			<div id="sbdescription">
+
+				<div id="descriptionholder">
+
+					<div >
+						<h1> - </h1>
+					</div>
+					
+					<div class="sbdescriptioncontainer" onclick=location.href="https://medium.com/@julian_zett">
+						<h2>mostly writing</h2>
+						<p> on medium</p>
+					</div>
+
+					<div class="sbdescriptioncontainer" onclick=location.href="https://twitter.com/thekickassbot">
+						<h2>other projects</h2>
+						<p> on the internet </p>
+					</div>
+
+					<div class="sbdescriptioncontainer" onclick=location.href="https://unsplash.com/@julian_zett">
+						<h2>some photography</h2>
+						<p> on unsplash </p>
+					</div>
+
+					<div class="sbdescriptioncontainer" onclick=location.href="https://twitter.com/julian_zett">
+						<h2>And also...</h2>
+						<p>twitter</p>
+					</div>
+
+					<div>
+						<h1> - </h1>
+					</div>
+				
+				</div>
+			</div>
+
+			<div id="sblogo">
+				<div id="imageholder">
+					<img src="images/logo.jpg"  alt="logo">
+				</div>
+			</div>
+		
+		</div>
+    <div id="content">
+    {{ content }}
+    </div>
