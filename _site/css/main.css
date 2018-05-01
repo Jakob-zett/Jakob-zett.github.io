@@ -118,7 +118,7 @@
 .main {
     margin-left: 170px; /* Same as the width of the sidebar */
 }
-.projectcontainer {
+.main .projectcontainer {
 	margin: 20px;
     padding: 40px 40px;
     padding-bottom: 10px;
@@ -128,14 +128,14 @@
 
 
 }
-.projectcontainer h1 {
+.main .projectcontainer h1 {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
 	font-size: 30px;
 	text-transform: uppercase;
 }
 
-.projectcontainer h2 {
+.main .projectcontainer h2 {
 	font-size: 20px;
 	margin:0;
     padding-top: 10px;
@@ -147,5 +147,34 @@
 .projectcontainer:hover {
 	color: white;
 	background-color: black;
+}
+
+#headercontainer {
+	background-color: black;
+    z-index: 1; /* Stay on top */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    margin: 20px;
+    padding: 40px 40px;
+    padding-bottom: 10px;
+    border: solid black 6px;
+    text-decoration: none;
+    top: 0;
+
+}
+
+.main #headercontainer h1 {
+	font-family: 'Raleway', sans-serif
+	font-weight: 900;
+	font-size: 30px;
+	text-transform: uppercase;
+	color: white;
+}
+.main #headercontainer h2 {
+	font-size: 20px;
+	margin:0;
+    padding-top: 10px;
+    text-transform: lowercase;
+    font-family: 'Reenie Beanie', cursive;
+    color: white;
 }
 
