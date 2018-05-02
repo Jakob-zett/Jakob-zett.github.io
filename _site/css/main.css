@@ -233,3 +233,35 @@
 	width: 100%;
 
 }
+
+/* Footer */
+/* Footer */
+
+#footercontainer {
+	background-color: black;
+    z-index: 1; /* Stay on top */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    margin: 20px;
+    padding: 40px 40px;
+    padding-bottom: 10px;
+    border: solid black 6px;
+    text-decoration: none;
+    top: 0;
+    cursor: pointer;
+
+}
+
+.main #footercontainer h1 {
+	font-family: 'Raleway', sans-serif
+	font-weight: 900;
+	font-size: 30px;
+	text-transform: uppercase;
+	color: white;
+}
+.main #footercontainer h2 {
+	font-size: 20px;
+	margin:0;
+    padding-top: 10px;
+    text-transform: lowercase;
+    font-family: 'Reenie Beanie', cursive;
+    color: white;
