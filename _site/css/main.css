@@ -193,7 +193,6 @@
     overflow-x: hidden; /* Disable horizontal scroll */
     margin: 20px;
     border: solid black 6px;
-    padding: 5px;
 
 }
 
@@ -223,16 +222,27 @@
 	text-align: left;
 	font-size: 16px;
 }
-.main #content  img {
-	height: 100%;
-	width: 100%;
+.main #picturecontent {
+	background-color: black;
+
 }
+
 
 .main #picturecontent img {
 	height: 100%;
 	width: 100%;
+	border-bottom: solid black 6px;
+}
+
+.main #picturecontent a {
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
 
 }
+
+
+
 
 /* Footer */
 /* Footer */
