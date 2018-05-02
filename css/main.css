@@ -1,6 +1,5 @@
 * {
 	font-family: 'Raleway',"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-weight: bolder;
 	margin:0;
     padding:0;
     text-align: center;
@@ -188,42 +187,49 @@
 /* Content */
 /* Content */
 
-#contentcontainer {
+.main #contentcontainer {
 	background-color: white;
     z-index: 1; /* Stay on top */
     overflow-x: hidden; /* Disable horizontal scroll */
     margin: 20px;
-    padding: 40px 40px;
-    padding-bottom: 10px;
     border: solid black 6px;
-    text-decoration: none;
-    top: 0;
     padding: 5px;
 
 }
 
-.main #contentcontainer h1 {
-	font-family: 'Raleway', sans-serif
-	font-weight: 900;
-	font-size: 30px;
-	text-transform: uppercase;
-	text-align: left;
+.main #content {
+	font-family: 'Roboto', "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	max-width: 40em;
+	line-height: 1.7;
+	margin: 0 auto;
+	padding-top: 20px;
 
 }
-.main #contentcontainer h2 {
-	font-size: 20px;
-	margin:0;
-    padding-top: 10px;
+
+.main #content h1 {
+	
+	text-transform: uppercase;
+	text-align: left;
+	height: 55px;
+
+}
+ 
+.main #content h2 {
     text-transform: uppercase;
-    font-family: 'Raleway', sans-serif;
     text-align:left;
 }
 
-.main #contentcontainer p {
+.main #content p {
 	text-align: left;
+	font-size: 16px;
 }
-.main #contentcontainer img {
-	width: 100%;
+.main #content  img {
 	height: 100%;
+	width: 100%;
 }
 
+.main #picturecontent img {
+	height: 100%;
+	width: 100%;
+
+}
