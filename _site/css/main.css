@@ -201,7 +201,8 @@
 	max-width: 40em;
 	line-height: 1.7;
 	margin: 0 auto;
-	padding-top: 20px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 
 }
 
@@ -222,6 +223,22 @@
 	text-align: left;
 	font-size: 16px;
 }
+
+
+.main #content a {
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	background-color: black;
+
+}
+
+.main #content img {
+	height: 100%;
+	width: 100%;
+}
+
+
 .main #picturecontent {
 	background-color: black;
 
