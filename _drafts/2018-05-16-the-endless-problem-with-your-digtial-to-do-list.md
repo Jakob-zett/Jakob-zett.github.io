@@ -2,7 +2,7 @@
 layout: post
 categories: writing
 title: "the endless problem with your digital to-do list"
-date: 2018-05-06
+date: 2018-05-14
 ---
 
 Endless space: The blessing and the curse brought by the digital and brought by the internet. <br>

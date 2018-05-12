@@ -2,7 +2,7 @@
 layout: post
 categories: writing
 title: "generations"
-date: 2018-04-27
+date: 2018-05-18
 ---
 It started with Gen X and with Millennials it became a widespread phenomenon. For the first time a larger proportion of people in a generation perceives their daily job as something that should be fulfilling, as opposed to something that brings in the money.
 The line between jobs and hobbies seems to blur entirely. 

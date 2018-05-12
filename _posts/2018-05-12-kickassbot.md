@@ -2,14 +2,13 @@
 layout: post
 categories: [project, twitter.com/@thekickassbot]
 title: "THEKICKASSBOT"
-date: 2018-05-09
+date: 2018-05-12
 ---
 
 ## Hey, I built something you won't like!!
 <br>
 On the verge of seriousness I built a thing.<br>
 It is what it says in the name. <br>
-It is built to kick your ass. <br>
 Not here, but on twitter.<br>
 It's a twitter bot.<br>
 It's a nice help to get off twitter. <br>
