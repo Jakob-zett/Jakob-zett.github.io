@@ -1,4 +1,7 @@
 name: Julian Zett
 markdown: kramdown
+url: julianzett.com
 baseurl: "/newmainweb/"
  
+plugins:
+  - jekyll-feed
