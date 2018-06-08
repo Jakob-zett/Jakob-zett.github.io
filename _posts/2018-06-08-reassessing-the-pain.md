@@ -5,7 +5,7 @@ title: "Reassessing the Pain"
 date: 2018-06-08
 ---
 
-Short letter to the Editor at the Economist in response to:  ["Assessing the Pain"](https://www.economist.com/china/2018/05/24/a-threatened-trade-war-between-china-and-america-may-be-on-hold) (May 26th) <br>
+Short letter to the editor at The Economist in response to:  ["Assessing the Pain"](https://www.economist.com/china/2018/05/24/a-threatened-trade-war-between-china-and-america-may-be-on-hold) (May 26th) <br>
 <br>
 
 <h2> Reassessing the pain </h2> <br>
