@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [writing, unsplash.com]
+categories: [writing]
 title: "Like Silicon Valley, but..."
 date: 2018-05-25
 ---
