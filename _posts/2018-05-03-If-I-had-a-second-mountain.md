@@ -1,7 +1,7 @@
 ---
 layout: picturepost
-categories: [photography, unsplash.com]
-title: "If I had a (second) mountain"
+categories: [If I Had a (second) Mountain, Photography]
+title: "Two"
 date: 2018-05-03
 ---
 

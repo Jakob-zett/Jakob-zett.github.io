@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Writing
-categories: not nearly every week
+title: Design
+categories: this and that
 ---
 
 {% include header.html %} 
 
 <div class="main">
-	{% for post in site.categories.writing %}
+	{% for post in site.categories.Design reversed %}
 	<div class="projectcontainer" onclick=location.href="{{ post.url }}";>
 		<h1> {{ post.title }} </h1>
-		<h2> {{ post.date | date_to_string }} / {{ post.categories | join: ' / published on: ' }}</h2>
+		<h2> {{ post.categories | join: ' / ' }} / {{ post.date | date_to_string }} </h2>
 	</div>
 	{% endfor %}
 </div>

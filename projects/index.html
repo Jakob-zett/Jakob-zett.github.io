@@ -7,10 +7,10 @@ categories: worth the wait
 {% include header.html %} 
 
 <div class="main">
-	{% for post in site.categories.project %}
+	{% for post in site.categories.Project reversed %}
 	<div class="projectcontainer" onclick=location.href="{{ post.url }}";>
 		<h1> {{ post.title }} </h1>
-		<h2> {{ post.date | date_to_string }} / {{ post.categories | join: ' / published on: ' }}</h2>
+		<h2> {{ post.categories | join: ' / ' }} / {{ post.date | date_to_string }} </h2>
 	</div>
 	{% endfor %}
 </div>

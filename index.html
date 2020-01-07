@@ -5,10 +5,14 @@ title: Julian Zett
 
 
 <div class="main">
-	{% for post in site.posts %}
+	<div id="headercontainer">
+		<h1> Hello! </h1>
+		<h2> Julian Zefferer/ Person / 07 Dec 1998 </h2>
+	</div>
+	{% for post in site.posts reversed %}
 	<div class="projectcontainer" onclick=location.href="{{ post.url }}";>
 		<h1> {{ post.title }}</h1>
-		<h2> {{ post.date | date_to_string }} / {{ post.categories | join: ' / published on: ' }}</h2>
+		<h2> {{ post.categories | join: ' / ' }} / {{ post.date | date_to_string }} </h2>
 	</div>
 	{% endfor %}
 </div>
