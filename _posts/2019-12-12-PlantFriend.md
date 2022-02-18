@@ -11,6 +11,6 @@ date: 2019-12-12
 <br>
 ![Smartphone Mockup](/images/plantfriendmedia/plantfriendimage.png)
 <br>
-[Find out more on the website](plantfriend.landen.co)
+[Find out more on the PlantFriend website](https://plantfriend.landen.co)
 <br>
 [Follow ConnyTheCactus on Instagram to stay up to date](https://www.instagram.com/connythecactus/)
