@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [Braun Watch Strap Reimagined, Design]
-title: "Six"
+title: "Seven"
 date: 2020-02-08
 ---
 
